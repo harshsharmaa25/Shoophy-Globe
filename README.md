@@ -28,12 +28,12 @@ To set up **Shoppy Globe** locally, follow these steps:
 
 
 
-**Install Dependencies:**
+2. **Install Dependencies:**
 
 npm install
 
 
-**Run the Development Server:**
+3. **Run the Development Server:**
 
 npm start
 
