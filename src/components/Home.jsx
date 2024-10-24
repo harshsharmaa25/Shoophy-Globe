@@ -39,9 +39,9 @@ function Home() {
   <b>Welcome</b>
 </h1>
 <p className="text-center text-3xl mt-2 text-gray-700 leading-relaxed transition-transform transform hover:-translate-y-1 duration-300">
-  <i>Thank you for choosing us as your shopping destination. <br />Discover unique products that reflect your individuality.</i>
+  <i>Thank you for choosing us as your shopping destination. <br/>your destination for unique finds and endless shopping joy!</i>
 </p>
-<h1 className="text-center text-5xl mt-20 text-green-600 hover:text-green-800 transition-transform transform hover:-translate-y-1 duration-300">
+<h1 className="text-center text-5xl mt-20 text-green-600 hover:text-green-800 transition-transform transform hover:-translate-y-1 duration-300 underline">
   <b>Top-Rated Products</b>
 </h1>
 
