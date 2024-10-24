@@ -41,7 +41,7 @@ npm start
 ## 🛠️ Usage
 Browse products by category or use the search feature to find specific items.
 Add items to your cart and proceed to checkout.
-Create an account for a personalized shopping experience or checkout as a guest.
+
 
 
 ##📬 Contact
